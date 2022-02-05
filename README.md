@@ -8,9 +8,9 @@
 </p>
 
 ## DEMO video : https://youtu.be/XUE1Jabz3Qo
-Nama : Sugandi
-Kontak whatsapp : 081389959209
-Email : sugandi.id@gmail.com
+Nama : Sugandi <br>
+Kontak whatsapp : 081389959209 <br>
+Email : sugandi.id@gmail.com <br>
 
 ## About Laravel
 
